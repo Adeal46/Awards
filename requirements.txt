@@ -5,8 +5,34 @@ django-bootstrap3==11.0.0
 django-bootstrap4==0.0.8
 django-heroku==0.3.1
 django-registration==2.4.1
+django-tinymce==2.8.0djangorestframework==3.9.2
+Pillow==5.4.1
+pkg-resources==0.0.0
+psycopg2==2.7.7
+python-decouple==3.1
+pytz==2018.9
+whitenoise==4.1.2
+(virtual) adil@adil-HP-EliteBook-8460p:~/Documentrds$ sourcpi
+Command 'pi' not found, but can be installed with:
+
+sudo apt install pi
+
+(virtual) adil@adil-HP-EliteBook-8460p:~/Documents/Awards$ pip install gunicorn
+Collecting gunicorn
+  Using cached https://files.pythonhosted.org/packages/8c/da/b8dd8deb741bff556db53902d4706774c8e1e67265f69528c14c003644e6/gunicorn-19.9.0-py2.py3-none-any.whl
+Installing collected packages: gunicorn
+Successfully installed gunicorn-19.9.0
+(virtual) adil@adil-HP-EliteBook-8460p:~/Documents/Awards$ pip freeze
+confusable-homoglyphs==3.2.0
+dj-database-url==0.5.0
+Django==1.11
+django-bootstrap3==11.0.0
+django-bootstrap4==0.0.8
+django-heroku==0.3.1
+django-registration==2.4.1
 django-tinymce==2.8.0
 djangorestframework==3.9.2
+gunicorn==19.9.0
 Pillow==5.4.1
 psycopg2==2.7.7
 python-decouple==3.1
