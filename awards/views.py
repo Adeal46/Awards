@@ -17,6 +17,7 @@ from rest_framework.views import APIView
 from .serializer import ProfileSerializer,ProjectSerializer,technologiesSerializer,colorsSerializer,countriesSerializer,categoriesSerializer
 
 
+
 # Create your views here.
 def index(request):
     date = dt.date.today()
